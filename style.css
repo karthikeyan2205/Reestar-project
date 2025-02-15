@@ -1,0 +1,69 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.header{
+    background-color: black;
+    color: white;
+    padding: 30px;
+    text-align: center;
+    cursor: pointer;
+}
+li:hover{
+    color: gold;
+}
+li{
+    display: inline-block;
+}
+.main{
+    text-align: center;
+    padding-top:40px ;
+    cursor: pointer;
+}
+.box{
+    display: inline-block;
+    border: 2px solid black;
+    width: 400px;
+    height: 600px;
+    text-align: center;
+}
+img{
+    display: inline-block;
+}
+.text{
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+    border-radius: 20px;
+    display: inline-block;
+    width: 140px;
+    text-align: center;
+    height: 30px;
+}
+.text:hover{
+    color: goldenrod;
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    margin-top: 20px;
+    padding-bottom: 50px;
+    color: white;
+}
+.age{
+    padding-left: 110px;
+    text-align:center ;
+}
+input{
+    text-align: center;
+}
+table{
+    padding-left: 860px;
+    color: white;
+}
+.foo{
+    background-color: yellow;
+    color: black;
+    text-align: center;
+    padding: 2px;
+}
